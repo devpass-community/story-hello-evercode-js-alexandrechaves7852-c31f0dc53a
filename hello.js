@@ -1,5 +1,6 @@
 function hello(str) {
-    // Add your solution here!
+    var nome = "alex";
+    console.log(nome);
 };
 
 module.exports = hello;
